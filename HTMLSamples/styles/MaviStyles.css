@@ -1,0 +1,25 @@
+﻿.logo_container {
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: gainsboro;
+
+    display: flex;
+    justify-content: center; /*display flex özelliği ile birlikte kullanılmalı */
+    align-items: center; /*display flex özelliği ile birlikte kullanılmalı */
+}
+
+.mavilogo
+{
+    
+}
+
+.menu
+{
+
+}
+
+ul
+{
+float:left;
+}
